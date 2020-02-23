@@ -1,0 +1,2 @@
+# lazycode
+Just for fun
